@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+<titlе>Заголовок</title> 
+
+<style type="text/css">
+@import url("style/stt.css");
+</style>
+</head>
+
+<body>
+3десь располагается контент страницы
+<a href="" class="smooth">Вкусный соус</a>
+</body>
+
+</html>
